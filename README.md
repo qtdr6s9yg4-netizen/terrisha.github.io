@@ -27,6 +27,18 @@ ACTIVITIES
 
 As an avid networker and people-person, I am passionate about attending industry events, building relationships, and identifying new business opportunities. In my free time, I enjoy reading sales and marketing blogs, researching industry trends, and developing new sales strategies to stay ahead of the competition.
 
+Character Skills
+
+Wisdom
+Creativity
+Problem- solving
+Flexibility
+Time Management
+Organization
+
+Holland Code 
+
+According tot he Holland Code assessment, enterprising and social skills are amoung my highest ranked. This tracks well with my previous job experiences regarding customer service. Conventional was ranked next with investigative following. Often, I find myself not settling for the first answer, but instead searching for the one that best fits my needs. Finally, artistic is my a skill I have least knowledge in. I have never been an artistic person, it is very hard to follow a coloring sheet for me. 
 ABOUT ME
 
 At just 25, I embody a rare combination of discipline, adaptability, and entrepreneurial drive, forged during my impactful time in the army. Leaving the military with an honorable discharge and the core values of integrity and mission focus, I immediately channeled that energy into tackling the civilian world through a strikingly diverse set of industries.In the driving industry, I quickly moved beyond simple transport, mastering the complexities of route optimization, stringent safety protocols, and supply chain reliability. This period wasn't just about moving goods; it was about demonstrating unwavering reliability and executing demanding schedules, mirroring the high-stakes logistics learned in the service.
