@@ -5,7 +5,7 @@ EXPERIENCES
 
 STUDENT 
 JANUARY 2024-DECEMBER 2025 
-Highly motivated accounting student achieving a 4.0.  Possessing a deep understanding of GAAP, internal controls, and financial statement analysis
+Highly motivated accounting student achieving a 4.0.  Possessing a deep understanding of GAAP, internal controls, and financial statement analysis.
 
 U.S. ARMY
 JUNE 2018- OCTCOBER 2021
@@ -22,3 +22,6 @@ SOUTH CAROLINA
 DECEMBER 2025 
 Degree in Business with a comprehensive understanding of core business and accounting principles.
  
+ACTIVITIES
+
+As an avid networker and people-person, I am passionate about attending industry events, building relationships, and identifying new business opportunities. In my free time, I enjoy reading sales and marketing blogs, researching industry trends, and developing new sales strategies to stay ahead of the competition.
