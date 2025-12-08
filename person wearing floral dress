@@ -1,0 +1,31 @@
+# Project Title
+
+A short one-line description of the project.
+
+## Photo (upload via GitHub drag & drop)
+
+To upload your photo directly while editing this README on GitHub:
+
+1. On the repository page, open this README for editing (click the pencil ✏️).
+2. Drag & drop your image file into the editor.
+3. GitHub will upload the image to user-images.githubusercontent.com and automatically insert a markdown image link where your cursor was.
+4. Commit the change.
+
+After step 3 you will see a line similar to this (GitHub will fill in the real URL):
+
+![Person smiling wearing a floral dress](https://user-images.githubusercontent.com/12345678/your-uploaded-image.jpg)
+
+If you need to control the rendered size on GitHub, use an HTML <img> tag (GitHub allows HTML in READMEs):
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/your-uploaded-image.jpg" alt="Person smiling wearing a floral dress" width="600" />
+</p>
+
+Notes
+- Replace the placeholder URL above with the actual URL that GitHub inserts after you drag & drop.
+- Use descriptive alt text for accessibility.
+- Alternatively, you can upload the image to the repo (click "Add file" → "Upload files"), commit it (for example to images/photo.jpg), and reference it with:
+  - Markdown: `![Alt text](images/photo.jpg)`
+  - Raw URL: `https://raw.githubusercontent.com/<owner>/<repo>/<branch>/images/photo.jpg`
+
+That's it — edit the README on GitHub, drag your image in, and commit. If you want, paste the uploaded image URL here and I’ll replace the placeholder in the README
