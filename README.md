@@ -1,3 +1,4 @@
+![IMG_0075](https://github.com/user-attachments/assets/6ce25cb2-8bde-4026-8320-7f8310bbd902)
 # terrisha.github.io
 Digital Portfolio 
 
