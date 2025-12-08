@@ -1,2 +1,11 @@
 # terrisha.github.io
 Digital Portfolio 
+EXPERIENCES
+
+STUDENT 
+JANUARY 2024-DECEMBER 2025 
+Highly motivated accounting student achieving a 4.0.  Possessing a deep understanding of GAAP, internal controls, and financial statement analysis
+
+U.S. ARMY
+JUNE 2018- OCTCOBER 2021
+Results-driven veteran offering three years of experience focused on achieving mission objectives. Expert at effective communication and strategic execution in dynamic, high-stakes environments.
