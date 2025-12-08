@@ -1,5 +1,6 @@
 # terrisha.github.io
 Digital Portfolio 
+
 EXPERIENCES
 
 STUDENT 
@@ -9,3 +10,15 @@ Highly motivated accounting student achieving a 4.0.  Possessing a deep understa
 U.S. ARMY
 JUNE 2018- OCTCOBER 2021
 Results-driven veteran offering three years of experience focused on achieving mission objectives. Expert at effective communication and strategic execution in dynamic, high-stakes environments.
+
+EDUCATION
+
+BBA/ SAVANNAH STATE UNIVERSITY/ GEORGIA 
+MAY 2027 
+Bachelor’s in business with a minor in sociology and a strong foundation in accounting.  
+
+AA/MIDLANDS TECHNICAL COLLEGE/ 
+SOUTH CAROLINA 
+DECEMBER 2025 
+Degree in Business with a comprehensive understanding of core business and accounting principles.
+ 
